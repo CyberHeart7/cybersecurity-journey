@@ -13,7 +13,7 @@ Welcome to my cybersecurity hub! I'm on a journey to learn and grow in the field
 ### 1️⃣ **Building a Network with Packet Tracer**
 **Description:** My first project is about designing and configuring a network using Cisco Packet Tracer. This project involves setting up devices, IP addressing, and ensuring proper connectivity.
 
-👉 [Check out the project here!](https://github.com/YourUsername/packet-tracer-network) *(Replace with actual link when created)*
+👉 <a href="https://github.com/CyberHeart7/packet-tracer-network" target="_blank">My First Project</a>
 
 ---
 More projects coming soon!
