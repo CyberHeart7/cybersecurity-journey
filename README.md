@@ -16,6 +16,10 @@ Welcome to my cybersecurity hub! I'm on a journey to learn and grow in the field
 👉 <a href="https://github.com/CyberHeart7/packet-tracer-network" target="_blank">My First Project</a>
 
 ---
-More projects coming soon!
 
-Stay tuned as I continue to learn and grow in cybersecurity. 🚀
+
+### 💻 **First HTB Box Walkthrough**
+**Description:** A detailed walkthrough of how I compromised a beginner-level CTF machine from TCM Security using tools like Nmap, Nikto, SMB enumeration, and Metasploit.
+
+👉 <a href="https://github.com/CyberHeart7/first-htb-box-walkthrough" target="_blank">View Walkthrough Project</a>
+
